@@ -1,12 +1,9 @@
-[submodule "eventsScheduler"]
-	path = eventsScheduler
-	url = https://github.com/magisterwork/eventsScheduler.git
-[submodule "eventsApi"]
-	path = eventsApi
-	url = https://github.com/magisterwork/eventsApi.git
 [submodule "eventsCore"]
 	path = eventsCore
 	url = https://github.com/magisterwork/eventsCore.git
 [submodule "vkScheduler"]
 	path = vkScheduler
 	url = https://github.com/magisterwork/vkScheduler.git
+[submodule "eventsApi"]
+	path = eventsApi
+	url = https://github.com/magisterwork/eventsApi.git
