@@ -1,0 +1,6 @@
+[submodule "eventsScheduler"]
+	path = eventsScheduler
+	url = https://github.com/magisterwork/eventsScheduler.git
+[submodule "eventsApi"]
+	path = eventsApi
+	url = https://github.com/magisterwork/eventsApi.git
