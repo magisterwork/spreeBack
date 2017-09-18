@@ -1,9 +1,12 @@
 [submodule "eventsCore"]
 	path = eventsCore
 	url = https://github.com/magisterwork/eventsCore.git
+	branch = master
 [submodule "vkScheduler"]
 	path = vkScheduler
 	url = https://github.com/magisterwork/vkScheduler.git
+	branch = master
 [submodule "eventsApi"]
 	path = eventsApi
 	url = https://github.com/magisterwork/eventsApi.git
+	branch = master
