@@ -10,3 +10,7 @@
 	path = eventsApi
 	url = https://github.com/magisterwork/eventsApi.git
 	branch = master
+[submodule "cultureScheduler"]
+	path = cultureScheduler
+	url = https://github.com/magisterwork/cultureScheduler.git
+	branch = master
