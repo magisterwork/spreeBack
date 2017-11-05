@@ -12,5 +12,6 @@
     <modules>
         <module>eventsCore</module>
         <module>vkScheduler</module>
+        <module>eventsApi</module>
     </modules>
 </project>
